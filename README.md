@@ -11,3 +11,9 @@ Storing the certificates for the Kaggle Courses I have completed
 ### Intermediate Machine Learning
 #### Completed 15/5/21
 #### Age: 15
+
+
+## Course 3:
+### Pandas
+#### Completed 23/5/21
+#### Age: 15
